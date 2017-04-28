@@ -1,0 +1,28 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  padding-top: 55px;
+}
+
+.navbar-brand img {
+  position: relative;
+  bottom: 10px;
+  right: 5px;
+}
+
+.title {
+  font-family: "Cousine";
+  font-size: 2.5rem;
+}
+
+.color {
+  font-family: "Open Sans Condensed";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.hover-li:hover {
+  background-color: lightgray;
+}
