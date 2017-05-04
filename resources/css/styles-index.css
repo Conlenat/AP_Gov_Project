@@ -89,14 +89,6 @@ body {
   margin-bottom: 10px;
 }
 
-.float {
-  float: right;
-}
-
-.left {
-  float: left;
-}
-
 .footer {
   border-top: 2px solid black;
   background-color: #ededed;
@@ -110,4 +102,12 @@ body {
 .footer-div {
   width: 50% !important;
   background-color: #ededed;
+}
+
+.left {
+  float: left;
+}
+
+.float {
+  float: right;
 }
