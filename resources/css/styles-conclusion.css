@@ -45,3 +45,30 @@ body {
   margin-top: 10%;
   padding-bottom: 5%;
 }
+
+.cite {
+  font-size: 2.5rem;
+}
+
+.footer {
+  border-top: 2px solid black;
+  background-color: #ededed;
+}
+
+.footer p {
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer-div {
+  width: 50% !important;
+  background-color: #ededed;
+}
+
+.left {
+  float: left;
+}
+
+.float {
+  float: right;
+}
