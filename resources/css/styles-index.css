@@ -58,6 +58,10 @@ body {
   font-family: "Permanent Marker";
 }
 
+.cite{
+  font-size: 3rem;
+}
+
 .summary-header h1 {
   margin-bottom: 20px;
 }
