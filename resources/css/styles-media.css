@@ -6,6 +6,8 @@ body {
   padding-top: 55px;
 }
 
+/** Navbar and header stuff **/
+
 .navbar-brand img {
   position: relative;
   bottom: 10px;
@@ -32,6 +34,8 @@ body {
   margin: 15px 0 !important;
 }
 
+/** Slick containers **/
+
 .slick-container {
   margin: 0 auto;
   padding: 40px;
@@ -55,6 +59,8 @@ div.slick-list.draggable {
   background: white;
 }
 
+/** Images for cartoons **/
+
 .carousel-image-1 {
   margin-left: 10px;
   width: 35%;
@@ -77,6 +83,8 @@ div.slick-list.draggable {
   margin-left: 10px;
   margin-top: 35px;
 }
+
+/** Text for Cartoons **/
 
 .carousel-text-1 {
   float: right;
@@ -118,6 +126,8 @@ div.slick-list.draggable {
   bottom: 350px;
 }
 
+/** Video Text **/
+
 .video-text{
   width: 350px;
   position: relative;
@@ -126,6 +136,8 @@ div.slick-list.draggable {
   font-family: "Handlee";
   font-size: 2rem;
 }
+
+/** Footer **/
 
 .footer {
   border-top: 2px solid black;
@@ -140,4 +152,12 @@ div.slick-list.draggable {
 .footer-div {
   width: 50% !important;
   background-color: #ededed;
+}
+
+/** Media Queries **/
+
+@media screen and (min-width: 1500px) and (max-width: 2000px) {
+  p.names {
+    padding-bottom: 365px !important;
+  }
 }
