@@ -139,3 +139,19 @@ body {
     padding-bottom: 12px !important;
   }
 }
+
+@media screen and (min-width: 1000px) and (max-width: 1499px) {
+  .card-img-top {
+    height: 200px;
+    margin-left: 5% !important;
+  }
+
+  .left-img {
+    margin-left: 2% !important;
+    width: 95% !important;
+  }
+
+  p.names {
+    padding-bottom: 52px !important;
+  }
+}
