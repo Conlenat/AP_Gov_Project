@@ -6,6 +6,8 @@ body {
   padding-top: 55px;
 }
 
+/** Navbar and header stuff **/
+
 .navbar-brand img {
   position: relative;
   bottom: 10px;
@@ -26,6 +28,8 @@ body {
 .hover-li:hover {
   background-color: lightgray;
 }
+
+/** Main Banner **/
 
 .jumbotron {
   color: white !important;
@@ -50,6 +54,8 @@ body {
 .banner p {
   font-family: "Handlee";
 }
+
+/** Summary Section **/
 
 .summary-header {
   text-align: center;
@@ -92,6 +98,8 @@ body {
 .card-block a {
   margin-bottom: 10px;
 }
+
+/** Footer **/
 
 .footer {
   border-top: 2px solid black;
