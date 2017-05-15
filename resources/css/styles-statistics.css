@@ -93,3 +93,13 @@ body {
     padding-bottom: 165px !important;
   }
 }
+
+@media screen and (min-width: 1000px) and (max-width: 1499px) {
+  .div-text {
+    margin-left: 50px;
+  }
+
+  p.names {
+    padding-bottom: 304px !important;
+  }
+}

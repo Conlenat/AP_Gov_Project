@@ -161,3 +161,40 @@ div.slick-list.draggable {
     padding-bottom: 365px !important;
   }
 }
+
+@media screen and (min-width: 1000px) and (max-width: 1499px) {
+  .carousel-image-1 {
+    margin-top: 50px;
+  }
+
+  .carousel-text-1 {
+    right: 50px;
+    bottom: 350px;
+  }
+
+  .carousel-text-2 {
+    width: 280px;
+    right: 10px;
+    font-size: 1.9rem;
+  }
+
+  .carousel-text-3 {
+    width: 400px;
+    right: 20px;
+  }
+
+  .carousel-text-4 {
+    right: 50px;
+    bottom: 300px;
+  }
+
+  .video-text {
+    right: 7px;
+    top: 30px;
+    width: 250px;
+  }
+
+  p.names {
+    padding-bottom: 545px !important;
+  }
+}
