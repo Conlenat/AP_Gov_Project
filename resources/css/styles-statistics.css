@@ -6,6 +6,8 @@ body {
   padding-top: 55px;
 }
 
+/** Navbar and header stuff **/
+
 .navbar-brand img {
   position: relative;
   bottom: 10px;
@@ -26,6 +28,8 @@ body {
 .hover-li:hover {
   background-color: lightgray;
 }
+
+/** Main Sections for page (i.e. Legal Status) **/
 
 .header {
   width: 100%;
@@ -51,6 +55,8 @@ body {
   line-height: 1.5;
 }
 
+/** Fotter **/
+
 .footer {
   border-top: 2px solid black;
   background-color: #ededed;
@@ -73,4 +79,17 @@ body {
 
 .float {
   float: right;
+}
+
+
+/** Media Queries **/
+
+@media screen and (min-width: 1500px) and (max-width: 2000px) {
+  .div-text {
+    margin-left: 500px;
+  }
+
+  p.names {
+    padding-bottom: 165px !important;
+  }
 }
