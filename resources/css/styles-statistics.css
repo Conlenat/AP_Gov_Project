@@ -94,7 +94,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1000px) and (max-width: 1499px) {
+@media screen and (min-width: 1000px) and (max-width: 1349px) {
   .div-text {
     margin-left: 50px;
   }

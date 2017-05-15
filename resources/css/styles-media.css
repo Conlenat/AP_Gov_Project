@@ -162,7 +162,8 @@ div.slick-list.draggable {
   }
 }
 
-@media screen and (min-width: 1000px) and (max-width: 1499px) {
+
+@media screen and (min-width: 1000px) and (max-width: 1349px) {
   .carousel-image-1 {
     margin-top: 50px;
   }
